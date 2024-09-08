@@ -626,3 +626,10 @@ svg.ui-ux circle {
 .footer-section li:hover a {
   color: #238fb3;
 }
+
+.footer-section .copyright {
+  text-transform: capitalize;
+  font-size: 2rem;
+  color: #fff;
+  float: left;
+}
